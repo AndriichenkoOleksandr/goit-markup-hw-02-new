@@ -89,6 +89,13 @@ letter-spacing: 0.03em;
   text-align: center;
   
 }
+.whatwedo-images{
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 1.16;
+text-align: center;
+}
 .whatwedo-title {
 font-style: normal;
 font-weight: bold;
